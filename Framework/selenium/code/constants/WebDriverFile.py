@@ -11,4 +11,4 @@ class WebDriverFile(Enum):
   IE = "IEDriverServer"
   
 # The Edge driver file.
-  EDGE = "MicrosoftWebDriver"
+  EDGE = "Microsoft Web Driver"

@@ -1,7 +1,6 @@
 from enum import Enum
 
 class BrowserType(Enum):
-    
 # Chrome web browser.
   CHROME = "CHROME"
 
