@@ -27,6 +27,3 @@ class ConfigSection(Enum):
 
 # The default web service section.
   WebServiceMaqs = "WebServiceMaqs"
-  
-  def __str__(self):
-        return '%s' % self.value
